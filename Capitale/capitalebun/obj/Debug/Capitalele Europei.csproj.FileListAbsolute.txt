@@ -1,0 +1,93 @@
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei\Capitalele Europei\obj\Debug\Capitalele Europei.csprojAssemblyReference.cache
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei\Capitalele Europei\obj\Debug\Capitalele_Europei.Form1.resources
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei\Capitalele Europei\obj\Debug\Capitalele_Europei.Properties.Resources.resources
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei\Capitalele Europei\obj\Debug\Capitalele Europei.csproj.GenerateResource.cache
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei\Capitalele Europei\obj\Debug\Capitalele Europei.csproj.CoreCompileInputs.cache
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei\Capitalele Europei\bin\Debug\Capitalele Europei.exe.config
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei\Capitalele Europei\bin\Debug\Capitalele Europei.exe
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei\Capitalele Europei\bin\Debug\Capitalele Europei.pdb
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei\Capitalele Europei\obj\Debug\Capitalele Europei.exe
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei\Capitalele Europei\obj\Debug\Capitalele Europei.pdb
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei\Capitalele Europei\bin\Debug\Conturi.mdf
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei\Capitalele Europei\bin\Debug\Conturi_log.ldf
+D:\Elev\Documents\XII A\ATESTAT\Capitalele Europei bun\Capitalele Europei\bin\Debug\Conturi.mdf
+D:\Elev\Documents\XII A\ATESTAT\Capitalele Europei bun\Capitalele Europei\bin\Debug\Conturi_log.ldf
+D:\Elev\Documents\XII A\ATESTAT\Capitalele Europei bun\Capitalele Europei\bin\Debug\Capitalele Europei.exe.config
+D:\Elev\Documents\XII A\ATESTAT\Capitalele Europei bun\Capitalele Europei\bin\Debug\Capitalele Europei.exe
+D:\Elev\Documents\XII A\ATESTAT\Capitalele Europei bun\Capitalele Europei\bin\Debug\Capitalele Europei.pdb
+D:\Elev\Documents\XII A\ATESTAT\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.csprojAssemblyReference.cache
+D:\Elev\Documents\XII A\ATESTAT\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele_Europei.Form1.resources
+D:\Elev\Documents\XII A\ATESTAT\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele_Europei.Properties.Resources.resources
+D:\Elev\Documents\XII A\ATESTAT\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.csproj.GenerateResource.cache
+D:\Elev\Documents\XII A\ATESTAT\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.csproj.CoreCompileInputs.cache
+D:\Elev\Documents\XII A\ATESTAT\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.exe
+D:\Elev\Documents\XII A\ATESTAT\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.pdb
+D:\Elev\Documents\XII A\ATESTAT\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele_Europei.Form2.resources
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\bin\Debug\Conturi.mdf
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\bin\Debug\Conturi_log.ldf
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\bin\Debug\Capitalele Europei.exe.config
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\bin\Debug\Capitalele Europei.exe
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\bin\Debug\Capitalele Europei.pdb
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.csprojAssemblyReference.cache
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele_Europei.Form1.resources
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele_Europei.Form2.resources
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele_Europei.Properties.Resources.resources
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.csproj.GenerateResource.cache
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.csproj.CoreCompileInputs.cache
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.exe
+D:\Elev\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.pdb
+C:\Users\Rafael\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\bin\Debug\Conturi.mdf
+C:\Users\Rafael\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\bin\Debug\Conturi_log.ldf
+C:\Users\Rafael\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\bin\Debug\Capitalele Europei.exe.config
+C:\Users\Rafael\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\bin\Debug\Capitalele Europei.exe
+C:\Users\Rafael\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\bin\Debug\Capitalele Europei.pdb
+C:\Users\Rafael\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele_Europei.Form1.resources
+C:\Users\Rafael\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele_Europei.Form2.resources
+C:\Users\Rafael\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele_Europei.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.exe
+C:\Users\Rafael\Desktop\Capitalele Europei\Capitalele Europei bun\Capitalele Europei\obj\Debug\Capitalele Europei.pdb
+C:\Users\Rafael\Desktop\capitale2\obj\Debug\Capitalele Europei.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\capitale2\obj\Debug\Capitalele_Europei.Form1.resources
+C:\Users\Rafael\Desktop\capitale2\obj\Debug\Capitalele_Europei.Form2.resources
+C:\Users\Rafael\Desktop\capitale2\obj\Debug\Capitalele_Europei.Properties.Resources.resources
+C:\Users\Rafael\Desktop\capitale2\obj\Debug\Capitalele Europei.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\capitale2\obj\Debug\Capitalele Europei.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\capitale2\obj\Debug\Capitalele Europei.exe
+C:\Users\Rafael\Desktop\capitale2\obj\Debug\Capitalele Europei.pdb
+C:\Users\Rafael\Desktop\capitale2\bin\Debug\Conturi.mdf
+C:\Users\Rafael\Desktop\capitale2\bin\Debug\Conturi_log.ldf
+C:\Users\Rafael\Desktop\capitale2\bin\Debug\Capitalele Europei.exe.config
+C:\Users\Rafael\Desktop\capitale2\bin\Debug\Capitalele Europei.exe
+C:\Users\Rafael\Desktop\capitale2\bin\Debug\Capitalele Europei.pdb
+C:\Users\Rafael\Desktop\capitale2\obj\Debug\Capitalele_Europei.Form3.resources
+D:\Elev\Downloads\capitalebun\bin\Debug\Conturi.mdf
+D:\Elev\Downloads\capitalebun\bin\Debug\Conturi_log.ldf
+D:\Elev\Downloads\capitalebun\bin\Debug\Capitalele Europei.exe.config
+D:\Elev\Downloads\capitalebun\bin\Debug\Capitalele Europei.exe
+D:\Elev\Downloads\capitalebun\bin\Debug\Capitalele Europei.pdb
+D:\Elev\Downloads\capitalebun\obj\Debug\Capitalele Europei.csprojAssemblyReference.cache
+D:\Elev\Downloads\capitalebun\obj\Debug\Capitalele_Europei.Form1.resources
+D:\Elev\Downloads\capitalebun\obj\Debug\Capitalele_Europei.Form2.resources
+D:\Elev\Downloads\capitalebun\obj\Debug\Capitalele_Europei.Form3.resources
+D:\Elev\Downloads\capitalebun\obj\Debug\Capitalele_Europei.Properties.Resources.resources
+D:\Elev\Downloads\capitalebun\obj\Debug\Capitalele Europei.csproj.GenerateResource.cache
+D:\Elev\Downloads\capitalebun\obj\Debug\Capitalele Europei.csproj.CoreCompileInputs.cache
+D:\Elev\Downloads\capitalebun\obj\Debug\Capitalele Europei.exe
+D:\Elev\Downloads\capitalebun\obj\Debug\Capitalele Europei.pdb
+C:\Users\Rafael\Desktop\capitalebun\capitalebun\bin\Debug\Conturi.mdf
+C:\Users\Rafael\Desktop\capitalebun\capitalebun\bin\Debug\Conturi_log.ldf
+C:\Users\Rafael\Desktop\capitalebun\capitalebun\bin\Debug\Capitalele Europei.exe.config
+C:\Users\Rafael\Desktop\capitalebun\capitalebun\bin\Debug\Capitalele Europei.exe
+C:\Users\Rafael\Desktop\capitalebun\capitalebun\bin\Debug\Capitalele Europei.pdb
+C:\Users\Rafael\Desktop\capitalebun\capitalebun\obj\Debug\Capitalele Europei.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\capitalebun\capitalebun\obj\Debug\Capitalele_Europei.Form1.resources
+C:\Users\Rafael\Desktop\capitalebun\capitalebun\obj\Debug\Capitalele_Europei.Form2.resources
+C:\Users\Rafael\Desktop\capitalebun\capitalebun\obj\Debug\Capitalele_Europei.Form3.resources
+C:\Users\Rafael\Desktop\capitalebun\capitalebun\obj\Debug\Capitalele_Europei.Properties.Resources.resources
+C:\Users\Rafael\Desktop\capitalebun\capitalebun\obj\Debug\Capitalele Europei.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\capitalebun\capitalebun\obj\Debug\Capitalele Europei.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\capitalebun\capitalebun\obj\Debug\Capitalele Europei.exe
+C:\Users\Rafael\Desktop\capitalebun\capitalebun\obj\Debug\Capitalele Europei.pdb
